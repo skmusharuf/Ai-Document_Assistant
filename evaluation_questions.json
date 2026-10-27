@@ -1,0 +1,18 @@
+[
+  {
+    "question": "What is the main objective of the document?",
+    "expected_sources": ["sample_report.pdf"]
+  },
+  {
+    "question": "What methodology does the author use?",
+    "expected_sources": ["sample_report.pdf"]
+  },
+  {
+    "question": "What are the main conclusions?",
+    "expected_sources": ["sample_report.pdf"]
+  },
+  {
+    "question": "What limitations are mentioned?",
+    "expected_sources": ["sample_report.pdf"]
+  }
+]
